@@ -105,3 +105,4 @@ El archivo `data/processed/ventas_normalizadas.parquet` contiene las columnas:
 El programa imprime un resumen con filas válidas, registros descartados, transacciones sin producto asociado, cantidad final de filas y tipos de datos.
 
 # project_panda_parquet
+# project_panda_parquet
